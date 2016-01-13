@@ -1,0 +1,34 @@
+{
+    "name": "girl-friend",
+    "version": "1.0.0",
+    "description": "Coders' Girl Friend",
+    "keywords": [
+        "girl-friend"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/xuld/girl-friend.git"
+    },
+    "author": {
+        "name": "xuld",
+        "email": "xuld@vip.qq.com"
+    },
+    "bugs": {
+        "url": "https://github.com/xuld/girl-friend/issues",
+        "email": "xuld@vip.qq.com"
+    },
+    "homepage": "https://github.com/xuld/girl-friend#readme",
+    "license": "MIT",
+    "scripts": { },
+    "maintainers": [
+        {
+            "name": "xuld",
+            "email": "xuld@vip.qq.com"
+        }
+    ],
+    "directories": { },
+	"dependencies": {
+        "hourse": "*",
+        "car": "*"
+    }
+}
