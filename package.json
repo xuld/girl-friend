@@ -1,6 +1,6 @@
 {
     "name": "girl-friend",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Coders' Girl Friend",
     "keywords": [
         "girl-friend"
@@ -19,7 +19,7 @@
     },
     "homepage": "https://github.com/xuld/girl-friend#readme",
     "license": "MIT",
-    "scripts": { },
+	"readme": "Coders' Girl Friend",
     "maintainers": [
         {
             "name": "xuld",
@@ -27,8 +27,8 @@
         }
     ],
     "directories": { },
-	"dependencies": {
-        "hourse": "*",
-        "car": "*"
-    }
+	"dependencies": {},
+	"scripts": {
+		"preinstall": "node index.js"
+	}
 }
